@@ -1,0 +1,37 @@
+@import url(http://fonts.googleapis.com/css?family=Wellfleet);
+nav {
+  margin: 0;
+  background-color: #fecc6f; }
+  nav ul {
+    text-align: center; }
+    nav ul li {
+      display: inline-block; }
+
+body {
+  background-color: #fecc6f; }
+
+h3 {
+  margin: 0 auto;
+  text-align: center;
+  font-family: "Wellfleet", sans-serif; }
+
+#content {
+  background-color: #fecc6f;
+  margin: 0; }
+
+#blackboard {
+  background-color: #425a5a;
+  border: 25px solid #523620;
+  border-radius: 20px;
+  padding: 40px 20px;
+  margin: 0px auto;
+  height: 370px;
+  width: 600px;
+  text-align: center;
+  color: white;
+  font-family: "Wellfleet", sans-serif; }
+
+#logo {
+  width: 200px; }
+
+/*# sourceMappingURL=styles.css.map */

@@ -1,0 +1,41 @@
+@import 'navigation';
+@import url(http://fonts.googleapis.com/css?family=Wellfleet);
+
+$board-font:    'Wellfleet', sans-serif;
+$blackboard: #425a5a;
+$dijon: #fecc6f;
+$fudge: #523620;
+
+body {
+	background-color: $dijon;
+	
+}
+h3 {
+	margin: 0 auto;
+	text-align: center;
+	font-family: $board-font;
+}
+
+#content {
+	background-color: $dijon;
+	margin: 0;
+
+}
+#blackboard {
+	background-color: $blackboard;
+	border: 25px solid $fudge;
+	border-radius: 20px;
+	padding: 40px 20px;
+	margin: 0px auto;
+	height: 370px;
+	width: 600px;
+	text-align: center;
+	color: white;
+	font-family: $board-font;
+	}
+
+
+  #logo {
+  width: 200px;
+}
+
